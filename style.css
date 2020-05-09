@@ -84,7 +84,7 @@ ul li:nth-child(9)
 }
 ul li:nth-child(10)
 {
-  background: url("img/locked.png");
+  background: url("img/locked.jpg");
   background-size: cover;
   background-position: center;
 }
