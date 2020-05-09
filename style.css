@@ -101,7 +101,7 @@ ul:hover li
 }
 ul li:hover
 {
-  width: 50%;
+  width: 100%;
 }
 ul li .content
 {
