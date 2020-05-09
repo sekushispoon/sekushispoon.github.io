@@ -96,12 +96,12 @@ ul li:nth-child(11)
 }
 ul:hover li
 {
-  width: 5%;
+  width: 8%;
 
 }
 ul li:hover
 {
-  width: 100%;
+  width: 50%;
 }
 ul li .content
 {
