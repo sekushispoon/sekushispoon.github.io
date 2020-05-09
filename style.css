@@ -78,7 +78,7 @@ ul li:nth-child(8)
 }
 ul li:nth-child(9)
 {
-  background: url("img/bgkanno.jpg");
+  background: url("img/locked.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -90,7 +90,7 @@ ul li:nth-child(10)
 }
 ul li:nth-child(11)
 {
-  background: url("img/bgcarissa.jpg");
+  background: url("img/locked.jpg");
   background-size: cover;
   background-position: center;
 }
