@@ -43,7 +43,7 @@ ul li:nth-child(2)
 }
 ul li:nth-child(3)
 {
-  background: url("img/bgnana.png");
+  background: url("img/bgnana.jpg");
   background-size: cover;
   background-position: center;
 }
