@@ -31,13 +31,13 @@ ul li{
 }
 ul li:nth-child(1)
 {
-  background: url("https://media.discordapp.net/attachments/708916388328374274/708937307159265300/bgmizu.png");
+  background: url("https://media.discordapp.net/attachments/708916388328374274/708937307159265300/bgmizu.png?width=216&height=468");
   background-size: cover;
   background-position: center;
 }
 ul li:nth-child(2)
 {
-  background: url("https://media.discordapp.net/attachments/708916388328374274/708919079821377576/bgmizu.png?width=217&height=468");
+  background: url("https://media.discordapp.net/attachments/708916388328374274/708937310347198524/bgnana.png?width=216&height=468");
   background-size: cover;
   background-position: center;
 }
